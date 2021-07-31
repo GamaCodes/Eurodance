@@ -1,13 +1,12 @@
-import logo from "./config.svg";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p className="App-link">PROXIMAMENTE</p>
-        <p>Sitio en construcción</p>
+        <img src="/euro_logotipo.svg" alt="logo" />
+        <p className="App-link">En construcción</p>
+        <p>Espéralo</p>
       </header>
     </div>
   );
